@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "BalaKernel-withsu",
+      "repo": "https://github.com/thetanmaygupta/kernel_xiaomi_light",
+      "branch": "13",
+      "device": "light",
+      "defconfig": "k6833v1_64_defconfig"
     },
     "toolchains": [
       {
