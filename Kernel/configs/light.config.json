@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "BalaKernel-withsu",
       "repo": "https://github.com/thetanmaygupta/kernel_xiaomi_light",
-      "branch": "22224ec0a9f6bc5fa1dc6c0e69d39f7c00098146",
+      "branch": "13",
       "device": "light",
       "defconfig": "k6833v1_64_defconfig"
     },
