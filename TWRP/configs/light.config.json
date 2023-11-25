@@ -1,0 +1,16 @@
+[
+    {
+        "OrangeFox": {
+            "Repo": "https://gitlab.com/OrangeFox/sync.git",
+            "Branch": "12.1"
+        },
+        "Device": {
+            "Repo": "https://github.com/balah2o/kernel_xiaomi_light",
+            "Branch": "13",
+            "Location": "device/xiaomi/light",
+            "DeviceName": "light",
+            "Makefile": "twrp_light",
+            "BootPartition": "boot"
+        }
+    }
+]
